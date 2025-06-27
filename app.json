@@ -11,7 +11,7 @@
   "env": {
     "PREFIX": {
       "description": "Choose your prefix for your bot",
-      "value": ".",
+      "value": "✦",
       "required": true
     },
     "AUTO_REJECT_CALL": {
@@ -76,7 +76,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "255793 157 892",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
